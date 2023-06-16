@@ -28,6 +28,9 @@
     cursor: pointer;
     font-size: 20px;
 }
+.padButton:hover{
+    color: #8f4c4c;
+}
 .dark-gray {
     background-color: #333;
 }
