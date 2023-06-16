@@ -104,7 +104,8 @@ function App() {
             0
           </div>
   
-          <div onClick={() => display(".")} className="padButton dot dark-gray">
+          <div onClick={() => display(".")} className="padButton dot dark-gray">        
+            .
           </div>
         </div>
       </div>
