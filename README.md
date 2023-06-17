@@ -2,6 +2,9 @@
 
 This is a simple calculator app implemented using React. It allows users to perform basic arithmetic calculations by inputting mathematical expressions.
 
+## Preview
+
+![preview](calculator.png)
 ## Features
 
 - Input mathematical expressions using the calculator buttons.
@@ -44,9 +47,9 @@ npm start
 ## Technologies Used
 
 - React: A JavaScript library for building user interfaces.
-- 
+  
 - HTML: The markup language used for structuring the app.
-- 
+  
 - CSS: The styling language used for visual design.
 
 ## License
